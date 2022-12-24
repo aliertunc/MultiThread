@@ -1,0 +1,235 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestRun id="4517e94c-0312-4c51-bd6d-a1823083cedd" name="ali@ALI 2022-12-24 13:52:42" runUser="ALI\ali" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Times creation="2022-12-24T13:52:42.9550571+03:00" queuing="2022-12-24T13:52:42.9550575+03:00" start="2022-12-24T13:52:41.3876394+03:00" finish="2022-12-24T13:52:42.9612531+03:00" />
+  <TestSettings name="default" id="3535e49b-0ec0-4bd1-baff-7a39a85f9a92">
+    <Deployment runDeploymentRoot="ali_ALI_2022-12-24_13_52_42" />
+  </TestSettings>
+  <Results>
+    <UnitTestResult executionId="50778b04-1a47-40ef-a550-d1dc5b9aa362" testId="ea005f02-6dcc-c228-dd7a-2085fade95ec" testName="TestCreatePdf" computerName="ALI" duration="00:00:00.5114482" startTime="2022-12-24T13:52:42.2672976+03:00" endTime="2022-12-24T13:52:42.7790084+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="50778b04-1a47-40ef-a550-d1dc5b9aa362">
+      <Output>
+        <StdOut>1&#xD;
+2&#xD;
+3&#xD;
+4&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_2.pdf&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_3.pdf&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_0.pdf&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_4.pdf&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_1.pdf&#xD;
+4&#xD;
+4&#xD;
+4&#xD;
+4&#xD;
+4&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_7.pdf&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_6.pdf&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_5.pdf&#xD;
+4&#xD;
+4&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_8.pdf&#xD;
+4&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_9.pdf&#xD;
+4&#xD;
+4&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_11.pdf&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_10.pdf&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_12.pdf&#xD;
+4&#xD;
+4&#xD;
+4&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_14.pdf&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_13.pdf&#xD;
+4&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_15.pdf&#xD;
+4&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_17.pdf&#xD;
+4&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_16.pdf&#xD;
+4&#xD;
+4&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_20.pdf&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_19.pdf&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_21.pdf&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_18.pdf&#xD;
+4&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_22.pdf&#xD;
+4&#xD;
+4&#xD;
+4&#xD;
+4&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_23.pdf&#xD;
+4&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_26.pdf&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_27.pdf&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_24.pdf&#xD;
+4&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_25.pdf&#xD;
+4&#xD;
+4&#xD;
+4&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_28.pdf&#xD;
+4&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_30.pdf&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_31.pdf&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_29.pdf&#xD;
+4&#xD;
+4&#xD;
+4&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_32.pdf&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_33.pdf&#xD;
+4&#xD;
+4&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_34.pdf&#xD;
+4&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_38.pdf&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_35.pdf&#xD;
+4&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_37.pdf&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_36.pdf&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_39.pdf&#xD;
+4&#xD;
+4&#xD;
+4&#xD;
+4&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_43.pdf&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_40.pdf&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_42.pdf&#xD;
+4&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_44.pdf&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_41.pdf&#xD;
+4&#xD;
+4&#xD;
+4&#xD;
+4&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_47.pdf&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_45.pdf&#xD;
+4&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_46.pdf&#xD;
+4&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_48.pdf&#xD;
+4&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_49.pdf&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_50.pdf&#xD;
+4&#xD;
+4&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_51.pdf&#xD;
+4&#xD;
+4&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_53.pdf&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_52.pdf&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_54.pdf&#xD;
+4&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_55.pdf&#xD;
+4&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_56.pdf&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_57.pdf&#xD;
+4&#xD;
+4&#xD;
+4&#xD;
+4&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_59.pdf&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_58.pdf&#xD;
+4&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_60.pdf&#xD;
+4&#xD;
+4&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_61.pdf&#xD;
+4&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_65.pdf&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_62.pdf&#xD;
+4&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_64.pdf&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_63.pdf&#xD;
+4&#xD;
+4&#xD;
+4&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_67.pdf&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_66.pdf&#xD;
+4&#xD;
+4&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_70.pdf&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_68.pdf&#xD;
+4&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_69.pdf&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_71.pdf&#xD;
+4&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_72.pdf&#xD;
+4&#xD;
+4&#xD;
+4&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_74.pdf&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_73.pdf&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_75.pdf&#xD;
+4&#xD;
+4&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_76.pdf&#xD;
+4&#xD;
+4&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_78.pdf&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_77.pdf&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_80.pdf&#xD;
+4&#xD;
+4&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_79.pdf&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_81.pdf&#xD;
+4&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_82.pdf&#xD;
+4&#xD;
+4&#xD;
+4&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_83.pdf&#xD;
+4&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_86.pdf&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_87.pdf&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_85.pdf&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_84.pdf&#xD;
+4&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_88.pdf&#xD;
+4&#xD;
+4&#xD;
+4&#xD;
+4&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_89.pdf&#xD;
+4&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_91.pdf&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_92.pdf&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_90.pdf&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_94.pdf&#xD;
+4&#xD;
+4&#xD;
+4&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_95.pdf&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_93.pdf&#xD;
+4&#xD;
+4&#xD;
+4&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_96.pdf&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_97.pdf&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_99.pdf&#xD;
+C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath\object_98.pdf</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="eceab6ba-3b1e-4695-996b-3174c3f06a34" testId="6bd74f70-63cf-5dc3-575d-d329484db607" testName="TestLoadList" computerName="ALI" duration="00:00:00.0304402" startTime="2022-12-24T13:52:42.1928305+03:00" endTime="2022-12-24T13:52:42.2596516+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="eceab6ba-3b1e-4695-996b-3174c3f06a34" />
+  </Results>
+  <TestDefinitions>
+    <UnitTest name="TestLoadList" storage="c:\users\ali\source\repos\multithread\multithread.test\bin\debug\net5.0\multithread.test.dll" id="6bd74f70-63cf-5dc3-575d-d329484db607">
+      <Execution id="eceab6ba-3b1e-4695-996b-3174c3f06a34" />
+      <TestMethod codeBase="C:\Users\ali\source\repos\MultiThread\MultiThread.Test\bin\Debug\net5.0\MultiThread.Test.dll" adapterTypeName="executor://mstestadapter/v2" className="MultiThread.Test.UnitTest1" name="TestLoadList" />
+    </UnitTest>
+    <UnitTest name="TestCreatePdf" storage="c:\users\ali\source\repos\multithread\multithread.test\bin\debug\net5.0\multithread.test.dll" id="ea005f02-6dcc-c228-dd7a-2085fade95ec">
+      <Execution id="50778b04-1a47-40ef-a550-d1dc5b9aa362" />
+      <TestMethod codeBase="C:\Users\ali\source\repos\MultiThread\MultiThread.Test\bin\Debug\net5.0\MultiThread.Test.dll" adapterTypeName="executor://mstestadapter/v2" className="MultiThread.Test.UnitTest1" name="TestCreatePdf" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestEntries>
+    <TestEntry testId="ea005f02-6dcc-c228-dd7a-2085fade95ec" executionId="50778b04-1a47-40ef-a550-d1dc5b9aa362" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="6bd74f70-63cf-5dc3-575d-d329484db607" executionId="eceab6ba-3b1e-4695-996b-3174c3f06a34" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <ResultSummary outcome="Completed">
+    <Counters total="2" executed="2" passed="2" failed="0" error="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+</TestRun>
