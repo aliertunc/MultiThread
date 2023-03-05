@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ali\\source\\repos\\MultiThread\\MultiThread.Test\\MultiThread.Test.csproj": {}
+    "C:\\Users\\ali\\source\\repos\\2023\\MultiThread\\MultiThread.Test\\MultiThread.Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ali\\source\\repos\\MultiThread\\MultiThread.Test\\MultiThread.Test.csproj": {
+    "C:\\Users\\ali\\source\\repos\\2023\\MultiThread\\MultiThread.Test\\MultiThread.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ali\\source\\repos\\MultiThread\\MultiThread.Test\\MultiThread.Test.csproj",
+        "projectUniqueName": "C:\\Users\\ali\\source\\repos\\2023\\MultiThread\\MultiThread.Test\\MultiThread.Test.csproj",
         "projectName": "MultiThread.Test",
-        "projectPath": "C:\\Users\\ali\\source\\repos\\MultiThread\\MultiThread.Test\\MultiThread.Test.csproj",
+        "projectPath": "C:\\Users\\ali\\source\\repos\\2023\\MultiThread\\MultiThread.Test\\MultiThread.Test.csproj",
         "packagesPath": "C:\\Users\\ali\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ali\\source\\repos\\MultiThread\\MultiThread.Test\\obj\\",
+        "outputPath": "C:\\Users\\ali\\source\\repos\\2023\\MultiThread\\MultiThread.Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -31,8 +31,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\ali\\source\\repos\\MultiThread\\MultiThread\\MultiThread.csproj": {
-                "projectPath": "C:\\Users\\ali\\source\\repos\\MultiThread\\MultiThread\\MultiThread.csproj"
+              "C:\\Users\\ali\\source\\repos\\2023\\MultiThread\\MultiThread\\MultiThread.csproj": {
+                "projectPath": "C:\\Users\\ali\\source\\repos\\2023\\MultiThread\\MultiThread\\MultiThread.csproj"
               }
             }
           }
@@ -83,18 +83,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ali\\source\\repos\\MultiThread\\MultiThread\\MultiThread.csproj": {
+    "C:\\Users\\ali\\source\\repos\\2023\\MultiThread\\MultiThread\\MultiThread.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ali\\source\\repos\\MultiThread\\MultiThread\\MultiThread.csproj",
+        "projectUniqueName": "C:\\Users\\ali\\source\\repos\\2023\\MultiThread\\MultiThread\\MultiThread.csproj",
         "projectName": "MultiThread",
-        "projectPath": "C:\\Users\\ali\\source\\repos\\MultiThread\\MultiThread\\MultiThread.csproj",
+        "projectPath": "C:\\Users\\ali\\source\\repos\\2023\\MultiThread\\MultiThread\\MultiThread.csproj",
         "packagesPath": "C:\\Users\\ali\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ali\\source\\repos\\MultiThread\\MultiThread\\obj\\",
+        "outputPath": "C:\\Users\\ali\\source\\repos\\2023\\MultiThread\\MultiThread\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -141,12 +141,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.13, 5.0.13]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

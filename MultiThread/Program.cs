@@ -8,10 +8,10 @@ using iTextSharp.text.pdf;
 
 namespace MultiThread
 {
-    public class Program
+    public static class Program
     {
-        public static List<object[]> objects;
-        public static string pdfPath = @"C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath";
+        public static List<object[]> Objects { get; private set; }
+        public static string PdfPath { get; private set; } = @"C:\Users\ali\source\repos\MultiThread\MultiThread\PdfPath";
 
         public static void Main(string[] args)
         {
@@ -22,10 +22,10 @@ namespace MultiThread
         public static void LoadList()
         {
             // Fake objeler listesi ve her bir objenin detayları
-            objects = new List<object[]>();
+            Objects = new List<object[]>();
             for (int i = 0; i < 100; i++)
             {
-                objects.Add(new object[] { i, $"Name{i}", $"Surname{i}", $"01/01/19{i % 100}", "Status" });
+                Objects.Add(new object[] { i, $"Name{i}", $"Surname{i}", $"01/01/19{i % 100}", "Status" });
             }
         }
         public static void CreatePdf()
@@ -34,7 +34,7 @@ namespace MultiThread
             // Threads listesi
             List<Thread> threads = new List<Thread>();
 
-            foreach (object[] obj in objects)
+            foreach (object[] obj in Objects)
             {
                 // Objenin detaylarını al
                 int id = (int)obj[0];
@@ -47,7 +47,7 @@ namespace MultiThread
                 {
                     // PDF dosyasını oluştur ve objenin detaylarını içine yaz
                     string fileName = $"object_{id}.pdf";
-                    string filePath = Path.Combine(pdfPath, fileName);
+                    string filePath = Path.Combine(PdfPath, fileName);
 
                     using (FileStream stream = new FileStream(filePath, FileMode.Create))
 
@@ -82,9 +82,9 @@ namespace MultiThread
         public static void CheckPath()
         {
             // Dizin yoksa oluştur
-            if (!Directory.Exists(pdfPath))
+            if (!Directory.Exists(PdfPath))
             {
-                Directory.CreateDirectory(pdfPath);
+                Directory.CreateDirectory(PdfPath);
             }
         }
     }

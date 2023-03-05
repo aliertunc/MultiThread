@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "k2B+PdJ64i1gYffAbq6OA/PruTh08JdiqXizYuYO4Tr97kX+nvAw2cBmNfOIVlYZAzfgD+YNXUOk7hjJuLX2CQ==",
+  "dgSpecHash": "HD8bxCIrHgC02WNoj83Mj6Lj2L9I4sJY+wIfXQ/+UK93T8q56mvmj/I6RF8V7N/0aSFFtmC8+WeERIxAxj3jaQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ali\\source\\repos\\MultiThread\\MultiThread\\MultiThread.csproj",
+  "projectFilePath": "C:\\Users\\ali\\source\\repos\\2023\\MultiThread\\MultiThread\\MultiThread.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ali\\.nuget\\packages\\bouncycastle\\1.8.9\\bouncycastle.1.8.9.nupkg.sha512",
-    "C:\\Users\\ali\\.nuget\\packages\\itextsharp\\5.5.13.3\\itextsharp.5.5.13.3.nupkg.sha512"
+    "C:\\Users\\ali\\.nuget\\packages\\itextsharp\\5.5.13.3\\itextsharp.5.5.13.3.nupkg.sha512",
+    "C:\\Users\\ali\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
   ],
   "logs": [
     {
